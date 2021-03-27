@@ -8,6 +8,9 @@ import DetailedDataTable from '../components/DataAnalysis/detailedDataTable';
 
 
 const AnalysisPage = () => {
+  React.useEffect(() => {
+    document.title = "Analysis"
+}, [])
 
   return (
     <>

@@ -8,6 +8,9 @@ import { howItWorks, landproParagraphs, referencedArticles} from '../components/
 import SampleCard from '../components/landProBase/sampleCard';
 
 const HomePage = () => {
+  React.useEffect(() => {
+    document.title = "Home"
+}, [])
   const [index, setIndex] = React.useState();
 
   const onActive = nextIndex => setIndex(nextIndex);

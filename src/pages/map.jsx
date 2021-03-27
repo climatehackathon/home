@@ -7,7 +7,11 @@ import Navi from '../components/navi';
 import LeafLetMap from '../components/mapComponent/drawOnMap';
 
 
-const MapPage = () => (
+const MapPage = () => {
+  React.useEffect(() => {
+    document.title = "Map"
+}, [])
+  return (
     <>
       <Navi />
       <Box flex direction='row' height='large' margin='medium' background-color='red'>
@@ -19,6 +23,6 @@ const MapPage = () => (
         </Stack>
       </Box>
     </>
-);
-
+  );
+}
 export default MapPage;
