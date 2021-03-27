@@ -18,7 +18,7 @@ const Routes = () => {
                     <Route exact path='/map' component={MapPage} />
                     <Route exact path='/analysis' component={AnalysisPage} />
                     <Route exact path='/about' component={AboutPage} />
-                    <Route render={() => <Redirect to={{pathname: '/'}} />} />
+                    <Route render={() => <Redirect to={{pathname: '/home'}} />} />
 
             </Switch>
         </Router>
