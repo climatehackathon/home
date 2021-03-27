@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/climate/static/css/main.c5fa6883.chunk.css",
-    "main.js": "/climate/static/js/main.0a15363f.chunk.js",
-    "main.js.map": "/climate/static/js/main.0a15363f.chunk.js.map",
+    "main.js": "/climate/static/js/main.c17f7cd1.chunk.js",
+    "main.js.map": "/climate/static/js/main.c17f7cd1.chunk.js.map",
     "runtime-main.js": "/climate/static/js/runtime-main.428dc92d.js",
     "runtime-main.js.map": "/climate/static/js/runtime-main.428dc92d.js.map",
     "static/css/2.c2843a57.chunk.css": "/climate/static/css/2.c2843a57.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.c2843a57.chunk.css",
     "static/js/2.12fc1922.chunk.js",
     "static/css/main.c5fa6883.chunk.css",
-    "static/js/main.0a15363f.chunk.js"
+    "static/js/main.c17f7cd1.chunk.js"
   ]
 }
