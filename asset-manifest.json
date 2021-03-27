@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/climate/static/css/main.c5fa6883.chunk.css",
+    "main.js": "/climate/static/js/main.0a15363f.chunk.js",
+    "main.js.map": "/climate/static/js/main.0a15363f.chunk.js.map",
+    "runtime-main.js": "/climate/static/js/runtime-main.428dc92d.js",
+    "runtime-main.js.map": "/climate/static/js/runtime-main.428dc92d.js.map",
+    "static/css/2.c2843a57.chunk.css": "/climate/static/css/2.c2843a57.chunk.css",
+    "static/js/2.12fc1922.chunk.js": "/climate/static/js/2.12fc1922.chunk.js",
+    "static/js/2.12fc1922.chunk.js.map": "/climate/static/js/2.12fc1922.chunk.js.map",
+    "index.html": "/climate/index.html",
+    "static/css/2.c2843a57.chunk.css.map": "/climate/static/css/2.c2843a57.chunk.css.map",
+    "static/css/main.c5fa6883.chunk.css.map": "/climate/static/css/main.c5fa6883.chunk.css.map",
+    "static/js/2.12fc1922.chunk.js.LICENSE.txt": "/climate/static/js/2.12fc1922.chunk.js.LICENSE.txt",
+    "static/media/Jonas.10f49b32.png": "/climate/static/media/Jonas.10f49b32.png",
+    "static/media/Landpro1.8ef9ab15.png": "/climate/static/media/Landpro1.8ef9ab15.png",
+    "static/media/Landpro2.6971a4d6.png": "/climate/static/media/Landpro2.6971a4d6.png",
+    "static/media/Landpro3.0f5aec95.png": "/climate/static/media/Landpro3.0f5aec95.png",
+    "static/media/Markus.731a7f21.png": "/climate/static/media/Markus.731a7f21.png",
+    "static/media/leaflet.draw.css": "/climate/static/media/spritesheet.a4e0eb7a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.428dc92d.js",
+    "static/css/2.c2843a57.chunk.css",
+    "static/js/2.12fc1922.chunk.js",
+    "static/css/main.c5fa6883.chunk.css",
+    "static/js/main.0a15363f.chunk.js"
+  ]
+}
