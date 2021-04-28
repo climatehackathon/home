@@ -29,7 +29,7 @@ export const Navi = () => {
                 items={[
                   {
                     label: <Box pad="small">Home</Box>,
-                    href: '/climate',
+                    href: '/home',
                   },
 
                   {
@@ -53,7 +53,7 @@ export const Navi = () => {
               setIsSmallScreen(false)
             }
             <Box justify="end" direction="row" gap="medium">
-              <Anchor icon={<FingerPrint />} href="/climate" label="Home" />
+              <Anchor icon={<FingerPrint />} href="/home" label="Home" />
               <Anchor icon={<MapLocation />} href="/map" label="Map" />
               <Anchor icon={<BarChart />} href="/analysis/" label="Data Table" />
               <Anchor icon={<Group />} href="/about/" label="The Team" />
